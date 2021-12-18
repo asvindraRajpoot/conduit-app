@@ -6,7 +6,6 @@
 Blog App is app to post blogs made using ReactJS. Apis for this app are made using NodeJS/ExpressJS and hosted on heroku. Fromt end for this app is hosted on Netlify
 
 # View Published Project
-## https://oshingate-blog-app.netlify.app
 
 ## Installation
 
@@ -40,4 +39,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-@oshingate@gmail.com
+@aswin1399904@gmail.com
